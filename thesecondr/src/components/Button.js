@@ -5,7 +5,7 @@ import Styles from '../res/styles';
 export default class Button extends Component{
     render(){
         return(
-            <TouchableOpacity onPress={this.props.onPress} activeOpacity={0.9}>
+            <TouchableOpacity onPress={this.props.onPress} activeOpacity={0.88}>
                 <View style={[Styles.center,Styles.wideButton,this.props.style]}>
                         <Text style={[{color : 'white', fontFamily : 'Ubuntu-Light'}, this.props.textStyle]}>
                             {this.props.text}

@@ -23,6 +23,10 @@ export default class Login extends Component{
         Actions.register();
     }
 
+    onLoginPressed = () => {
+
+    }
+
     render(){
         return(
             <View style={[Styles.container,{alignItems:'stretch'}]}>
@@ -45,6 +49,7 @@ export default class Login extends Component{
                         password/>
 
                     <Button text="Login"
+                        onPress={this.onLoginPressed}
                         style={{width : 310, borderRadius : 10, marginTop : 15}}/>
                 </View>
 
