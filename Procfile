@@ -1,0 +1,1 @@
+web : node ./Server/src/index.js
