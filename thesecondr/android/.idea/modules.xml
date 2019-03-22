@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fast-image/android/react-native-fast-image.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
       <module fileurl="file://$PROJECT_DIR$/thesecondr.iml" filepath="$PROJECT_DIR$/thesecondr.iml" />
     </modules>
   </component>

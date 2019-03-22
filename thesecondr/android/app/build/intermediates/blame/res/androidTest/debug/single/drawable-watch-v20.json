@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/androidTest/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/dbaaa47dfee994fc8d5b0c2fc1b98753/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/androidTest/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/dbaaa47dfee994fc8d5b0c2fc1b98753/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/androidTest/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/dbaaa47dfee994fc8d5b0c2fc1b98753/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

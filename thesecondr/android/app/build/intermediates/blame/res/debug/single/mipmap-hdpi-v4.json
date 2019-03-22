@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher_round.png",
+        "source": "/home/sid/Projects/The-Second-R/thesecondr/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/sid/Projects/The-Second-R/thesecondr/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

@@ -1,74 +1,74 @@
 [
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/home/sid/.android/build-cache/5ade4a39284159a4e0060ff76c73a592be011349/output/res/anim/catalyst_fade_out.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/21172696b061d9aa26034aacd9514b16/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/abc_slide_out_bottom.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/tooltip_exit.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/tooltip_exit.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/home/sid/.android/build-cache/5ade4a39284159a4e0060ff76c73a592be011349/output/res/anim/catalyst_fade_in.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/21172696b061d9aa26034aacd9514b16/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/home/sid/.android/build-cache/5ade4a39284159a4e0060ff76c73a592be011349/output/res/anim/catalyst_slide_up.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/21172696b061d9aa26034aacd9514b16/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/abc_fade_in.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
-        "source": "/home/sid/.android/build-cache/5ade4a39284159a4e0060ff76c73a592be011349/output/res/anim/catalyst_push_up_in.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/21172696b061d9aa26034aacd9514b16/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/abc_popup_exit.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/abc_slide_in_top.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/abc_slide_out_top.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/tooltip_enter.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/tooltip_enter.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/home/sid/.android/build-cache/5ade4a39284159a4e0060ff76c73a592be011349/output/res/anim/catalyst_push_up_out.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/21172696b061d9aa26034aacd9514b16/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/abc_popup_enter.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/abc_fade_out.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/home/sid/.android/build-cache/5ade4a39284159a4e0060ff76c73a592be011349/output/res/anim/catalyst_slide_down.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/21172696b061d9aa26034aacd9514b16/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/sid/.android/build-cache/3dbc18c0e2284cc2dc1fe02fcd540a5523b91f00/output/res/anim/abc_slide_in_bottom.xml"
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/20f351e1910bcc2ff007397869452ebc/res/anim/abc_slide_in_bottom.xml"
     }
 ]

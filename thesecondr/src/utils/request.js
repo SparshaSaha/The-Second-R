@@ -1,8 +1,17 @@
-const serverLink = "http://192.168.43.151:8080";
+const serverLink = "https://thesecondr.herokuapp.com";
+
+function objToQueryString(obj) {
+    const keyValuePairs = [];
+    for (const key in obj) {
+      keyValuePairs.push(encodeURIComponent(key) + '=' + encodeURIComponent(obj[key]));
+    }
+    return "?" + keyValuePairs.join('&');
+}
+
 const get = (link,body)=>{
-    fetch(serverLink+link)
+    return fetch(serverLink+link+objToQueryString(body))
     .then((res)=>{
-        console.log(res);
+        return JSON.parse(res._bodyText);
     });
 };
 
@@ -16,8 +25,7 @@ const post = (link,body)=>{
         body : JSON.stringify(body)
     })
     .then((res)=>{
-        console.log(res);
-        return res;
+        return JSON.parse(res._bodyText);
     });
 }
 

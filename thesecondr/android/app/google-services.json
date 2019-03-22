@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "508901176508",
+    "firebase_url": "https://secondr-1535489795724.firebaseio.com",
+    "project_id": "secondr-1535489795724",
+    "storage_bucket": "secondr-1535489795724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508901176508:android:ea0317052d7a16c2",
+        "android_client_info": {
+          "package_name": "com.thesecondr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508901176508-vm31fpn3bvrbp8dj97aiq166o8oj2sei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesecondr",
+            "certificate_hash": "c62fdfe67bd7552b85634ef24f6af90cc0451f44"
+          }
+        },
+        {
+          "client_id": "508901176508-m3jmafn8i8u1pdjqmutebla8pvbothb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyr8hfg48CKlCVRo-h3b4m3-8jDrs86hA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508901176508-m3jmafn8i8u1pdjqmutebla8pvbothb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

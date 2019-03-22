@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/072b26172a4332635e7803295b466b06/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/072b26172a4332635e7803295b466b06/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/072b26172a4332635e7803295b466b06/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/sid/Projects/The-Second-R/thesecondr/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/sid/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/003d72087dfdd191c454d1e51e74f26f/res/drawable-v21/notification_action_background.xml"
+    }
+]
